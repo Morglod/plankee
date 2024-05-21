@@ -1,0 +1,1 @@
+this.pee=(e=[])=>[r=>(e.push(r),()=>e=e.filter(e=>e!==r)),(...r)=>e.forEach(e=>e(...r))];
