@@ -5,7 +5,8 @@ Smallest was [nanoevents](https://github.com/ai/nanoevents) but it is 219 minifi
 So why we should waste so much memory in JS?
 
 Real original size 93 bytes  
-Real broitled size **81 bytes**
+Real broitled size **81 bytes**  
+Broitled size inside app **77 bytes**
 
 Usage:
 

@@ -1,4 +1,13 @@
 {
     "name": "plankee",
-    "version": "1.0.0"
+    "version": "1.0.1",
+    "size-limit": [
+        {
+            "path": "./index.js",
+            "limit": "10 kB"
+        }
+    ],
+    "devDependencies": {
+        "@size-limit/preset-app": "^11.1.4"
+    }
 }
